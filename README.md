@@ -1,0 +1,1 @@
+this is a catalog of some of the code I've been writing in slowly building a survival game; it's mostly scattered scripts corresponding to input, movement, and inventory systems as well as procedural animation
